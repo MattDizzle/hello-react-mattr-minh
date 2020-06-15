@@ -4,6 +4,7 @@ import Header from './Header'
 import Bio from './Bio';
 import Education from './Education';
 import Work from './Work';
+import Contact from './Contact';
 import Footer from './Footer'
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Bio />
       <Education />
       <Work />
+      <Contact />
       <Footer />
       </main>
     </div>
